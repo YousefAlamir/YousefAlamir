@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @YousefAlamir
 - 👀 I’m interested in Mobile application Programming.
-- 🌱 I’m currently work as an intern in Y-Sys company Sana'a/Yemen.
-- 📫 How to reach me ? uoshy2016@gmail.com - +967 776 500 436
+- 🌱 I currently work as a freelancer mobile application programmer from Sana'a/Yemen.
+- 📫 How to reach me ? 
+         My Email: uoshy2016@gmail.com 
+         Work Phone Number: +967 776 500 436
 
 <!---
 YousefAlamir/YousefAlamir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
