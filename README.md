@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yousef Alamir</h1>
-<h3 align="center">I am a Mobile Applications Developer, and I am interested in Data since and AI.</h3>
+<h3 align="center">I am a Mobile Applications Developer, and I am interested in Data science and AI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousefalamir&label=Profile%20views&color=0e75b6&style=flat" alt="yousefalamir" /> </p>
 
