@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **ML using python | VR & AR using Unity.**
 
-- 👨‍💻 All of my projects are available at [yousef.omairtech.com/#portfolio](yousef.omairtech.com/#portfolio)
+- 👨‍💻 All of my projects are available at <a href="yousef.omairtech.com/#portfolio"> My Portfolio </a>
 
-- 📫 How to reach me **yousef.omairtech.com/#contact**
+- 📫 How to reach me **<a href="yousef.omairtech.com/#contact"> Contact Me </a>**
 
-- 📄 Know about my experiences [yousef.omairtech.com](yousef.omairtech.com)
+- 📄 Know about my experiences <a href="yousef.omairtech.com"> Know me more </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
