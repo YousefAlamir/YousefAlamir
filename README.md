@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at **<a href="https://yousef.omairtech.com/#portfolio" target="_blank"> My Portfolio </a>**
 
-- 📫 How to reach me **<a href="https://yousef.omairtech.com/#contact" target="_blank"> Contact Me </a>**
+- 📫 How to reach me? **<a href="https://yousef.omairtech.com/#contact" target="_blank"> Contact Me Here </a>**
 
-- 📄 Know about my experiences **<a href="https://yousef.omairtech.com" target="_blank"> Know me more </a>**
+- 📄 Know about my experiences **<a href="https://yousef.omairtech.com" target="_blank"> Know me more! </a>**
 
 
 ## 🌐 Socials:
