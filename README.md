@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋,<br/> I'm Yousef H. Alamir</h1>
-<h3 align="center">Full stack Web Developer - Laravel | Android Applications Developer - Java & Kotlin.</h3>
+<h3 align="center">Project Manager | Full stack Web Developer - Laravel | Android Applications Developer - Java & Kotlin.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousefalamir&label=Profile%20views&color=0e75b6&style=flat" alt="yousefalamir" /> 
 
@@ -9,11 +9,11 @@
 # 💫 About Me:
 - 🌱 I’m currently learning **ML using python**
 
-- 👨‍💻 All of my projects are available at **<a href="http://yousef.omairtech.com/#portfolio" target="_blank"> My Portfolio </a>**
+- 👨‍💻 All of my projects are available at **<a href="https://yalamir.com/#portfolio" target="_blank"> My Portfolio </a>**
 
-- 📫 How to reach me? **<a href="http://yousef.omairtech.com/#contact" target="_blank"> Contact Me Here </a>**
+- 📫 How to reach me? **<a href="https://yalamir.com/#contact" target="_blank"> Contact Me Here </a>**
 
-- 📄 Know about my experiences **<a href="http://yousef.omairtech.com" target="_blank"> Know me more! </a>**
+- 📄 Know about my experiences **<a href="https://yalamir.com" target="_blank"> Know me more! </a>**
 
 
 ## 🌐 Socials:
